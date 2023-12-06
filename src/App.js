@@ -17,7 +17,6 @@ function App() {
       <p>I also had to get used to the syntax, its not very different but seeing function App and the other given files made it very confusing</p>
       <p>Lastly, I have never hosted through github, I've only used it once in the past for a group assignment, so I had to learn how to that as well.</p>
       <p> It didn't work at first which was very frustrating.</p>
-
     <img
     src="https://i.imgur.com/xZXKzamg.jpg"
     alt="Spinning Image"
