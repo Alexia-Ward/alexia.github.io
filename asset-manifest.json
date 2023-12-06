@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/akward-website-1/static/css/main.27a6392e.css",
-    "main.js": "/akward-website-1/static/js/main.1436b1d9.js",
-    "static/js/787.5357de43.chunk.js": "/akward-website-1/static/js/787.5357de43.chunk.js",
-    "index.html": "/akward-website-1/index.html",
-    "main.27a6392e.css.map": "/akward-website-1/static/css/main.27a6392e.css.map",
-    "main.1436b1d9.js.map": "/akward-website-1/static/js/main.1436b1d9.js.map",
-    "787.5357de43.chunk.js.map": "/akward-website-1/static/js/787.5357de43.chunk.js.map"
+    "main.css": "/alexia.github.io/static/css/main.27a6392e.css",
+    "main.js": "/alexia.github.io/static/js/main.ba846c35.js",
+    "static/js/787.5357de43.chunk.js": "/alexia.github.io/static/js/787.5357de43.chunk.js",
+    "index.html": "/alexia.github.io/index.html",
+    "main.27a6392e.css.map": "/alexia.github.io/static/css/main.27a6392e.css.map",
+    "main.ba846c35.js.map": "/alexia.github.io/static/js/main.ba846c35.js.map",
+    "787.5357de43.chunk.js.map": "/alexia.github.io/static/js/787.5357de43.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.27a6392e.css",
-    "static/js/main.1436b1d9.js"
+    "static/js/main.ba846c35.js"
   ]
 }
